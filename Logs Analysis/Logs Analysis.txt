@@ -1,0 +1,21 @@
+Logs Analysis 1
+20
+The browser has been compromised with well known vulnerability/technique which is ?
+
+Logs Analysis 2
+20
+What was the payload file created by the malware to start the firefox browser and compromise the machine ?
+
+Logs Analysis 3
+30
+What was the full command line used to launch the code in the payload?
+
+Logs Analysis 4
+50
+What is the MD5 of the abnormal file/process will run when the user opens firefox or adds a new tab in that browser?
+
+Logs Analysis 5
+100
+What was the Creation Time of the payload file that compromised the firefox?
+
+Answer Format: Full UTC Time

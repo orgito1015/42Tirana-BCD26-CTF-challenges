@@ -1,0 +1,5 @@
+Easy Network Challenge
+15
+#include <stdio.h>
+
+int main() { printf("Hello, World!\n"); return 0; }

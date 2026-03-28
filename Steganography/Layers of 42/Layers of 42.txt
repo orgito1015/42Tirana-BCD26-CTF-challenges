@@ -1,0 +1,5 @@
+Layers of 42
+150
+An image seen before from a 42 Tirana event was recovered from a compromised workstation. Investigators believe the attacker hid a secret message using multiple layers.
+
+Your mission: ???

@@ -1,0 +1,3 @@
+The Mastermind
+120
+Logs contain the final clue.

@@ -1,0 +1,6 @@
+Lost in the Maze
+25
+Fuzzzzing...
+
+flag{xxxxxxxxx}
+

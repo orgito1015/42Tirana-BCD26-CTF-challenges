@@ -1,0 +1,3 @@
+The Hidden Gem
+35
+The attacker downloaded a payload from the compromised server. Recover the file.

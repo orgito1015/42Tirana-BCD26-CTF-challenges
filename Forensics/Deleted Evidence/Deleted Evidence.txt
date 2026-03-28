@@ -1,0 +1,3 @@
+Deleted Evidence
+60
+The attacker attempted to delete files from the workstation. Recover the deleted evidence.

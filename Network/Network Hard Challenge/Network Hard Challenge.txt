@@ -1,0 +1,3 @@
+Network Hard Challenge
+40
+A client visits 42tirana.al, but something is leaking from records.

@@ -1,0 +1,12 @@
+1. 42 - Find the location (10)
+Find where is 42 in Australia... Format:
+flag{city}
+
+2. 42 Tirana - IT Administrator (10)
+42 Tirana's IT Administrator has another image name - try to understand.
+
+3. 42 Tirana - Head of Campus (10)
+In the past , Ms. Sahatçiu was board member somewhere....
+
+4. AADF in numbers (10)
+Try to find how many projects completed AADF.

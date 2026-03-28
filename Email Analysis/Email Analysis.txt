@@ -1,0 +1,35 @@
+Email Analysis 1
+What was the email address Ilir corresponded with ?
+
+Email Analysis 2
+List email attachment files that Ilir has sent ? Please provide file names with extension
+
+Email Analysis 3
+What is the MD5 hash for info.txt file after extracted from the email?
+
+Email Analysis 4
+One of the attached files is a TEXT file. What is the content of that text file (in human readable format)?
+
+Email Analysis 5
+What is the password used to open the other file ?
+
+Email Analysis 6
+How many files inside the zip archive ?
+
+Email Analysis 7
+What was the encoder-type used to conceal the newly discovered files ?
+
+Email Analysis 8
+What is the password phrase inside the content of the newly discovered TEXT file (in human readable format)?
+
+Email Analysis 9
+What is the name of the file that possibly contains the user account information ?
+
+Email Analysis 10
+What language is used to hide the possible banking information ?
+
+Email Analysis 11
+Please provide the first captured username and password in the list you found from the banking information ?
+
+
+

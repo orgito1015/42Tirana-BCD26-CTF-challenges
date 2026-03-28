@@ -1,0 +1,4 @@
+Initial Access
+20
+The attacker first accessed the network through a suspicious HTTP request. Find the first malicious request.
+

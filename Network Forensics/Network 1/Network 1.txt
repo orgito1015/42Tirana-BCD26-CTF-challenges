@@ -1,0 +1,3 @@
+Network 1
+50
+A severe DDoS attack is occurred in an organization, degrading the performance of a ubuntu server machine. You are assigned to analyse the DD_attack.pcapng file and determine the IP address of the attacker trying to attack the target server through UDP.
